@@ -1,3 +1,9 @@
+tlp (0.6-1+semplice0) unstable; urgency=medium
+
+  * Initial upload for semplice.
+
+ -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Fri, 19 Dec 2014 20:07:34 +0100
+
 tlp (0.6-1) unstable; urgency=low
 
   * New upstream release
